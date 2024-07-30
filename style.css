@@ -1,0 +1,24 @@
+@font-face{
+    font-family: "pp";
+    src: url("./fonts/PPNeueMontreal-Medium.88ee7c9.woff2");
+}
+
+@font-face{
+    font-family: "founders";
+    src: url("./fonts/founders-grotesk-x.cd2d353.woff2");
+}
+
+:root{
+    --primary: #E5E7DF;
+    --secondary: #1E1E1E;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
